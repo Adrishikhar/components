@@ -1,2 +1,2 @@
 # components
-Assignment 1 : components og twitter app
+Assignment 1 : components of twitter app
